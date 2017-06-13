@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My News Time</string>
+    <string name="result">Result:</string>
+    <string name="top_stories">Top Stories</string>
+</resources>
